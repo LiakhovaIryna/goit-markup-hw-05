@@ -259,12 +259,12 @@ section.features {
 	justify-content: space-between;
 }
 
-.work-top-wrap{
+.work-top-wrap {
 	position: relative;
 	max-height: 294px;
 }
 
-.work-top-title{
+.work-top-title {
 	margin: 0;
 	padding-top: 27px;
 	padding-bottom: 27px;
@@ -276,12 +276,12 @@ section.features {
 	background: rgba(47, 48, 58, 0.8);
 
 	font-weight: 700;
-		font-size: 14px;
-		line-height: 1.14;
-		text-align: center;
-		letter-spacing: 0.03em;
-		text-transform: uppercase;
-			color: #FFFFFF;
+	font-size: 14px;
+	line-height: 1.14;
+	text-align: center;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+	color: #ffffff;
 }
 
 /* -------------Team---------------- */
@@ -698,9 +698,8 @@ button:focus {
 }
 
 .modal-icon {
-fill: #000000;
+	fill: #000000;
 }
-	
 
 button.btn-modal {
 	display: flex;
@@ -717,7 +716,6 @@ button.btn-modal {
 	border: 1px solid rgba(0, 0, 0, 0.1);
 	border-radius: 50%;
 	box-shadow: none;
-	
 }
 .is-hidden {
 	opacity: 0;
